@@ -170,7 +170,7 @@ print(publish_response.data['output'])
 ### Example Output
 
 ```OUTPUT:
-🚀 Boost productivity with this simple trick: Break work into 25-min sprints (Pomodoro technique) & take 5-min breaks. Focus up! #ProductivityHacks
+Boost productivity with this simple trick: Break work into 25-min sprints (Pomodoro technique) & take 5-min breaks. Focus up! #ProductivityHacks
 
 
 REVIEW PROCESS: 1 feedback
